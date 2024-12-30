@@ -1,8 +1,10 @@
 # To-Do-project-python
 It allows users to add, delete, update, and view tasks in an organized manner. This project serves as a great way to practice Python basics, file handling, and user interface concepts.
 # Technologies Used
-Programming Language: Python
-File Formats: .txt for data storage
+
+- **Programming Language**: Python
+- **File Formats**: .txt for data storage
+
 ## Features
 
 - **Add Tasks**: Add new tasks to the to-do list.
